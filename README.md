@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rakesh313777.github.io/](https://rakesh313777.github.io/)
 
-- 💬 Ask me about **Java, Mysql, hibernate**
+- 💬 Ask me about **Java, Mysql, Hibernate, Spring boot**
 
 - 📫 How to reach me **Rakeshchirumalla013@gmail.com**
 
